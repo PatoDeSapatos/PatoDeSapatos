@@ -6,7 +6,6 @@
   <li>How to reach me
     <ul>
       <li><a href="https://twitter.com/PatoEnsapatado">Twitter</a></li>
-      <li><a href="https://www.instagram.com/pato_tilapia/">Instagram</a></li>
     </ul>
   </li>
 </ul>
