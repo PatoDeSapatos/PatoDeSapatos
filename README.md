@@ -5,7 +5,7 @@
   <li>🙂 Ele/Dele</li>
   <li>📚 Aprendendo Java, JavaScript, PHP, SQL e GML</li>
   <li>⚙ Atualmente não trabalhando</li>
-  <li>💡 Cursando Técnico em Informática no IFSP (2/3)</li>
+  <li>💡 Cursando Técnico em Informática no IFSP (3/3)</li>
 </ul>
 
 <div>
@@ -18,7 +18,4 @@
 <div>
   <h2>Onde me encontrar?</h2>
   <p>Email para contato: felipefernanalves@gmail.com</p>
-  <h3>Redes Sociais: </h3>
-  <a href="https://twitter.com/PatoEnsapatado" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  
 </div>
