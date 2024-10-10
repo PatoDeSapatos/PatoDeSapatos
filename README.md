@@ -10,7 +10,8 @@
 
 <div>
   <a href="https://github.com/PatoDeSapatos">
-    <img style="height: 10em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoDeSapatos&layout=compact&theme=transparent"/>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=patodesapatos&show_icons=true&theme=dracula&rank_icon=github&hide_border=true&include_all_commits=true&text_title&locale=pt-br"/></p>
+    <p><img style="height: 10em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatoDeSapatos&layout=donut&theme=dracula&hide_border=true&locale=pt-br"/></p>
   </a>
 </div>
 
