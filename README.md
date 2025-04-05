@@ -3,9 +3,8 @@
 <h2>Sobre Mim:</h2>
 <ul>
   <li>🙂 Ele/Dele</li>
-  <li>📚 Aprendendo Java, JavaScript, PHP, SQL e GML</li>
   <li>⚙ Atualmente não trabalhando</li>
-  <li>💡 Cursando Técnico em Informática no IFSP (3/3)</li>
+  <li>💡 Cursando Ciência da Computação na Unicamp</li>
 </ul>
 
 <div>
